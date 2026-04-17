@@ -2,7 +2,7 @@
 Tshwane Artisan Bakery
 
 ## Student Information
-**Student number:** st10536675 <br>
+**Student number:** ST10536675 <br>
 **Student Name:** Boleng Kubyane
 
 ## Project Overview
