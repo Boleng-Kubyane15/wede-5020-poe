@@ -39,7 +39,7 @@ Week 10: Deploy the site and submit final version.
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br>img of the sitemap  
+<img srs=" /img site map.png"> 
 
 ## References
 
