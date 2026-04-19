@@ -43,5 +43,10 @@ Week 10: Deploy the site and submit final version.
 
 ## References
 
-Tshwane Artisan Bakery, 2024. Official Facebook Page. [Online] Available at: https://www.facebook.com/tshwanebakery (facebook.com in Bing) [Accessed 12 April 2026].
-Mozilla Developer Network (MDN), 2023. Web Docs: HTML, CSS and JavaScript. [Online] Available at: <https://developer.mozilla.org> [Accessed 12 April 2026].
+Tshwane Artisan Bakery (2010) Homepage of Tshwane Artisan Bakery. Unpublished web project, Pretoria, South Africa.
+
+Tshwane Artisan Bakery (2010) Inquiry page – Custom cake requests. Unpublished web project, Pretoria, South Africa.
+
+Tshwane Artisan Bakery (2010) Contact page – Customer communication. Unpublished web project, Pretoria, South Africa.
+
+Tshwane Artisan Bakery (2024) Official Facebook Page. [Online] Available at: https://www.facebook.com/tshwanebakery.
