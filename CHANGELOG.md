@@ -6,13 +6,16 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-- xyz
+- I built the first version of the homepage and inquiry form using simple HTML, which gave me a foundation to work from.
+- I created the README.md to explain the purpose of the project and included references to guide my work.
 
 ### Changed
-- xyz
+- I adjusted the navigation menu.
+- I updated the product images to better showcase the bakery’s bread and cakes, making the site feel more inviting.
 
 ### Fixed
-- xyz
+- I corrected broken links in the navigation bar that weren’t working properly.
+- I fixed layout issues where sections overlapped on smaller screens, which made the site look unprofessional.
 
 ## Semantic Versioning
 
