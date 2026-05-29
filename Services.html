@@ -4,29 +4,35 @@
 
     <img src="Images/logo-768x768.png" width="10%">
 
+     <link rel="stylesheet" href="CSS/style.css">
+
 <title>Products</title>
     
 </head>
 <body>
 
-<header>
+<header class="banner">
+      <div class="header-content">
+     <h1>Tshwane Artisan Bakery</h1>
+     </div>
+</header>
 
- <h1>Tshwane Artisan Bakery</h1>   
-
-    <table border="1" width="100%">
-<ul>
-<li align><a href="index.html">Home</a></li>
-<li align><a href="about.html">About Us</a></li>
-<li align><a href="services.html">Services</a></li>
-<li align><a href="inquiry.html">Inquiry</a></li>
-<li align><a href="contact.html">Contact Us</a></li>
-</ul>
+<table class="nav-table">
+  <tr>
+    <td><a href="index.html">Home</a></td>
+    <td><a href="about.html">About Us</a></td>
+    <td><a href="services.html">Services</a></td>
+    <td><a href="inquiry.html">Inquiry</a></td>
+    <td><a href="contact.html">Contact Us</a></td>
+  </tr>
 </table>
 
 </header>
 
 <main>
     <h2>Our Products</h2>
+
+    <!--0ur Services-->
     <p> 
      At Tshwane Artisan Bakery, we don’t just bake — we create experiences that bring 
      people together, we take pride in offering a wide range of freshly baked goods. 
@@ -36,6 +42,7 @@
     <!-- Breads Section -->
     <section>
         <h3>Breads</h3>
+        <img src="Images/breads.jpg" alt="Breads">
         <ul>
             <li><strong>Sourdough Loaf:</strong> Crusty and tangy, perfect for any meal.</li>
             <li><strong>Whole Wheat Bread:</strong> Wholesome and nutritious, baked daily.</li>
@@ -46,6 +53,7 @@
     <!-- Pastries Section -->
     <section>
         <h3>Pastries</h3>
+        <img src="Images/pastries.webp" alt="pastries">
         <ul>
             <li><strong>Croissants:</strong> Buttery and flaky, baked fresh each morning.</li>
             <li><strong>Cinnamon Rolls:</strong> Sweet and spiced, topped with icing.</li>
@@ -56,6 +64,7 @@
     <!-- Cakes Section -->
     <section>
         <h3>Custom Cakes</h3>
+        <img src="Images/custom cakes.webp" alt="cakes">
         <p>
             Whether it’s a birthday, wedding, or special celebration, our bakers create custom cakes 
             designed to your taste and style. Visit our <a href="inquiry.html">Inquiry</a> page to request a quote.
@@ -72,9 +81,17 @@
     </section>
 </main>
 
-<footer style="text-align:center; margin-top:20px; padding:10px; background-color:#f2f2f2;">
-    <p>&copy; 2026 Tshwane Artisan Bakery | Pretoria, South Africa</p>
+<footer>
+    
+    <table border="1" width="100%">
+<tr>
+<td align="center">
+
+<div class="center-text">
+  2026 Tshwane Artisan Bakery | Pretoria, South Africa
+</div>
 </footer>
 
 </body>
 </html>
+
