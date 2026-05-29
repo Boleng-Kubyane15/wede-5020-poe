@@ -8,6 +8,8 @@ This project follows Semantic Versioning.
 ### Added
 - I built the first version of the homepage and inquiry form using simple HTML, which gave me a foundation to work from.
 - I created the README.md to explain the purpose of the project and included references to guide my work.
+- I added css.
+- added more images.
 
 ### Changed
 - I adjusted the navigation menu.
