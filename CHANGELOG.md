@@ -10,6 +10,12 @@ This project follows Semantic Versioning.
 - I created the README.md to explain the purpose of the project and included references to guide my work.
 - I added css.
 - added more images.
+## Part 3 Changelog
+- Added JavaScript form validation to contact.html and inquiry.html
+- Implemented product search filter on services.html
+- Added meta descriptions, keywords, and author tags for SEO
+- Improved accessibility with alt text for all images
+
 
 ### Changed
 - I adjusted the navigation menu.
