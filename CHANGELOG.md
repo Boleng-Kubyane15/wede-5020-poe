@@ -15,7 +15,8 @@ This project follows Semantic Versioning.
 - Implemented product search filter on services.html
 - Added meta descriptions, keywords, and author tags for SEO
 - Improved accessibility with alt text for all images
-
+- Implemented lightbox gallery for product images using JavaScript
+- Enhanced user experience with interactive image viewing
 
 ### Changed
 - I adjusted the navigation menu.
