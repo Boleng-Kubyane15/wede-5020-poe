@@ -18,6 +18,26 @@ This project follows Semantic Versioning.
 - Implemented lightbox gallery for product images using JavaScript
 - Enhanced user experience with interactive image viewing
 
+## Part 3: Deployment on Netlify
+
+### Steps Taken
+1. Prepared all project files (HTML, CSS, JavaScript, Images) in one folder.
+2. Pushed the project to GitHub for version control.
+3. Logged into Netlify and selected **“Add new site → Import from GitHub”**.
+4. Connected Netlify to my GitHub repository.
+5. Selected the `main` branch and deployed automatically.
+6. Netlify generated a live site link and updates automatically whenever I push changes to GitHub.
+
+### Live Website
+The project is deployed and accessible at:  
+👉 [https://voluble-bublanina-076d59.netlify.app](https://voluble-bublanina-076d59.netlify.app)
+
+### Notes
+- Netlify provides free HTTPS/SSL certificates for secure browsing.
+- Site name can be customized under **Site Settings → Change site name**.
+- Future updates only require committing changes to GitHub; Netlify redeploys automatically.
+
+
 ### Changed
 - I adjusted the navigation menu.
 - I updated the product images to better showcase the bakery’s bread and cakes, making the site feel more inviting.
